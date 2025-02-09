@@ -5,7 +5,7 @@ from urllib.parse import urljoin, urlparse
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-TELEGRAM_BOT_TOKEN = '8118131629:AAHfdhU2gUPv-AJn3D5jgYJCDWgtqjq7A0g'
+TELEGRAM_BOT_TOKEN = '7750500532:AAEQLLyqugCHdBodLJ6dsZ-SIx4EovZWrOE'
 TELEGRAM_CHAT_ID = '7749807563'
 
 def send_to_telegram(message):
